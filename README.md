@@ -1,4 +1,4 @@
-[200~# Healthcare System
+# Healthcare System
 
 A web-based healthcare system project built as the final project for the [CS50W](https://cs50.harvard.edu/web/) course by Harvard.
 
